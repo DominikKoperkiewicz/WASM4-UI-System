@@ -2,7 +2,9 @@
 
 This library provides a simple and efficient way to create basic UI components for [WASM-4](https://wasm4.org/) projects using AssemblyScript. It includes support for mouse handling and UI elements such as text rendering, buttons and sliders. 
 
-![Demo Animation](video/presentation.gif)
+<p align="center">
+  <img src="video/presentation.gif" width="500"/>
+</p>
 
 ## Table of Contents
 
